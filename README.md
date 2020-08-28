@@ -16,3 +16,5 @@ https://blog.csdn.net/jhsword/article/details/105065352
 https://www.jianshu.com/p/1aac3ae4d620?tdsourcetag=s_pcqq_aiomsg
 
 http://mstamy2.github.com/PyPDF2
+
+https://blog.csdn.net/xiaoxijing/article/details/100523712
